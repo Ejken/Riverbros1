@@ -1,0 +1,25 @@
+uuid: 2f0aa1a2-d427-40b7-8eba-7054ae1cef5c
+langcode: en
+status: true
+dependencies:
+  content:
+    - 'block_content:picture_block:85c8d271-be9b-4d22-a1df-f6a51635a273'
+  module:
+    - block_content
+  theme:
+    - bartik
+id: footer_img
+theme: bartik
+region: footer_first
+weight: 0
+provider: null
+plugin: 'block_content:85c8d271-be9b-4d22-a1df-f6a51635a273'
+settings:
+  id: 'block_content:85c8d271-be9b-4d22-a1df-f6a51635a273'
+  label: Footer_img
+  provider: block_content
+  label_display: visible
+  status: true
+  info: ''
+  view_mode: full
+visibility: {  }

@@ -1,0 +1,8 @@
+uuid: cbdaec45-1ff1-4858-9e1c-ee8656b6c38d
+langcode: en
+status: true
+dependencies: {  }
+id: picture_block
+label: 'Picture Block'
+revision: 0
+description: ''

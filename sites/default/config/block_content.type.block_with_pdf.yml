@@ -1,0 +1,8 @@
+uuid: 4044ea07-623a-4703-b9c5-b99a030baf61
+langcode: en
+status: true
+dependencies: {  }
+id: block_with_pdf
+label: 'Block with PDF'
+revision: 0
+description: 'Block with PDF'

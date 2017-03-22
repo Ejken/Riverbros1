@@ -1,0 +1,21 @@
+uuid: bc83f1c8-f9c2-4820-a1e9-7d46a677ca08
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.block_with_pdf
+    - field.storage.block_content.field_discribe
+  module:
+    - text
+id: block_content.block_with_pdf.field_discribe
+field_name: field_discribe
+entity_type: block_content
+bundle: block_with_pdf
+label: Discribe
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: text
